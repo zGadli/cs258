@@ -42,5 +42,3 @@ Embedded views:
 - `project/nwutil.py`: topology, LinkState, request loading, and wavelength helpers.
 - `project/dqn_runner.py`: training/evaluation pipeline and plotting.
 - Data: `project/data/train` (train only), `project/data/eval` (evaluation only).
-
-Word count < 1500 as required. For a concise enironment summary, see Gymnasium env description style at https://gymnasium.farama.org/environments/classic_control/cart_pole/.
